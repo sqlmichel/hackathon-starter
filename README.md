@@ -150,7 +150,7 @@ Obtaining API Keys
 To use any of the included APIs or OAuth authentication methods, you will need
 to obtain appropriate credentials: Client ID, Client Secret, API Key, or
 Username & Password. You will need to go through each provider to generate new
-credentials.
+credentials. 
 
 **Hackathon Starter 2.0 Update:** I have included dummy keys and passwords for
 all API examples to get you up and running even faster. But don't forget to update
