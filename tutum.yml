@@ -5,6 +5,6 @@ app:
   links:
     - database
   tags:
-    - project-name-production
+    - hackathon-starter-production
 database:
   image: mongo
