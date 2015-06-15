@@ -3,3 +3,5 @@ deployment:
     branch: master
     commands:
       - $TRIGGER_DOCKER_HUB_BUILD
+notify:
+  webhooks: https://api.ghostinspector.com/v1/suites/557f1ef442ce48127e86d377/execute/?apiKey=450c0eea772511e9f2931550628151a9f207ab60
